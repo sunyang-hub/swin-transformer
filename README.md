@@ -48,3 +48,6 @@ Swin Transformer 在多个领域都取得了优异的成绩，包括：
 - 
 - 
 ### Figure 4: Mask掩码实现示意图  讲解省略
+
+
+### demo run  swin-transformer\test_swin.py

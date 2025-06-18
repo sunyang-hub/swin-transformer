@@ -1,4 +1,4 @@
-# 一个通俗的 Swin Transformer  demo  使用 MSRA 的源码 
+# 一个通俗的 Swin Transformer  demo  使用 MSRA 的源码 ，不需要下载数据集
 
 ## 简介
 - 微软亚洲研究院(MSRA)的工作

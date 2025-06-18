@@ -45,9 +45,8 @@ Swin Transformer 在多个领域都取得了优异的成绩，包括：
 - 使用Mask掩码处理移动窗口后的不完整注意力计算
 
 
-- 
-- 
 ### Figure 4: Mask掩码实现示意图  讲解省略
 
 
-### demo run  swin-transformer\test_swin.py
+### demo 
+python swin-transformer\test_swin.py
